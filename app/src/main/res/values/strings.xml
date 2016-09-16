@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaxiApp</string>
+    <string name="additional_info">Additional info</string>
+    <string name="amount">Amount:</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="date">Date:</string>
+    <string name="reg_number">Registration number:</string>
+    <string name="driver_name">Driver name:</string>
+    <string name="car_model">Car model:</string>
+    <string name="rub">RUB</string>
+
+</resources>
